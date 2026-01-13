@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "VIOLET",
+  "base_artist": "Ninomae Ina'nis",
+  "createdAt": "2026-01-13T03:07:46.324094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Violet Hill",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Violet_Hill_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LA Who Am I To Love You - From The Audiobook “Violet Bent Backwards Over The Grass”",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_LA_Who_Am_I_To_Love_You_-_From_The_Audiobook_“Violet_Bent_Backwards_Over_The_Gra_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ultra Violet (Light My Way)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/03_Ultra_Violet_(Light_My_Way)_U2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sumiregusa (Wild Violet)",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Sumiregusa_(Wild_Violet)_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Violet For Roses",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/05_Violet_For_Roses_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We’re Building Something New (feat. Iceboy Violet)",
+      "artist": "Loraine James",
+      "has_synced": true,
+      "path": "select/06_We’re_Building_Something_New_(feat._Iceboy_Violet)_Loraine_James.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Secret Land (Ultra Violet Radio Edit)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/07_Secret_Land_(Ultra_Violet_Radio_Edit)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "violet eyelinger",
+      "artist": "Astrobrite",
+      "has_synced": false,
+      "path": "select/08_violet_eyelinger_Astrobrite.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Violet Blue",
+      "artist": "Jill Jones",
+      "has_synced": false,
+      "path": "select/09_Violet_Blue_Jill_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Violet to Blue",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/10_Violet_to_Blue_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bruise Violet",
+      "artist": "Babes In Toyland",
+      "has_synced": true,
+      "path": "select/11_Bruise_Violet_Babes_In_Toyland.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shy Violet",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/12_Shy_Violet_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rim (feat. Violet Chachki & Aquaria)",
+      "artist": "Brooke Candy feat. Violet Chachki & Aquaria",
+      "has_synced": true,
+      "path": "select/13_Rim_(feat._Violet_Chachki_&_Aquaria)_Brooke_Candy_feat._Violet_Chachki_&_Aquaria.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rim (feat. Violet Chachki & Aquaria)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/14_Rim_(feat._Violet_Chachki_&_Aquaria)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You (Ha Ha Ha) [BURNS' Violet Cloud Version]",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/15_You_(Ha_Ha_Ha)_[BURNS'_Violet_Cloud_Version]_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You (BURNS' Violet Cloud Version)",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/16_You_(BURNS'_Violet_Cloud_Version)_Charli_XCX.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIOLET",
+      "artist": "Ninomae Ina'nis",
+      "has_synced": false,
+      "path": "select/pl_01_VIOLET_Ninomae_Ina'nis.txt"
+    }
+  ]
+}
